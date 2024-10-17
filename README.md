@@ -50,3 +50,9 @@ The **Medicine Reminder App** is an Android application developed in Java that h
 - **build.gradle.kts**: Project build configuration.
 - **gradle/**: Gradle wrapper files for project management.
 - **settings.gradle.kts**: Settings related to Gradle configuration.
+
+## Project Associates
+
+- Sinchana Poojary
+- Sreevalli R
+- Umme Ayman Khanam
